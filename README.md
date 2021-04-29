@@ -2,13 +2,13 @@
 
  - Convert a tecplot file using layers into GemPy format : ```convert_lay2gp.ipynb``` 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/macrambix/notebooks/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dmtram/notebooks/master)
 
 A Binder-compatible repo with a `requirements.txt` file.
 
 Access this Binder at the following URL 
 
-https://mybinder.org/v2/gh/macrambix/notebooks/master
+https://mybinder.org/v2/gh/dmtram/notebooks/master
 
 ## Notes
 The `requirements.txt` file should list all Python libraries that your notebooks
